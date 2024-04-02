@@ -1,0 +1,81 @@
+
+========================================================================================================================
+Ejercicio: El sitio deberá estar dividido en secciones o enlaces a otras páginas, debe incluir los siguientes contenidos
+
+Logotipo
+Misión, visión y valores
+Servicios ofrecidos
+Propuesta comercial
+Información de contacto
+
+=========================================================================================================================
+Guión para Sitio Profesional Consultoria IT
+
+Nombre del Sitio: AXA Consultoría IT
+
+Sección inicial
+
+1) Menu contine:
+Inicio
+Sobre AXA
+Servicios
+Propuesta Comercial
+Contacto
+
+2) Foto Inicial usada  index: Logotipo creado con IA Bing "LogotipoAXAConsulting"
+   
+   Imagen alternativa de Freepik "consultoria1" 
+   información sobre la atribución 
+   <a href="https://www.freepik.es/foto-gratis/startups-reunion-trabajo-equipo-negocios-analisis-datos-marketing_1211631.htm#fromView=search&page=1&position=25&uuid=e8f1af73-ba21-4c30-9269-3de3e6137384">Imagen de ijeab en Freepik</a>
+
+Título BODY : AXA Consultoría IT
+Texto asociado: Somos una consultora especializada en brindar soluciones y asesoramiento sobre CRM, contamos con amplia experiencia en acompañar 
+				a nuestros clientes  en la elección  del CRM adecuado para sus necesidades, llevamos adelante el relevamiento, implementación, 
+				puesta en marcha y posterior acompañamiento para brindar una asistencia 360
+    
+3)Misión, visión y valores (sección Sobre AXA)
+
+Texto asociado:
+En AXA Consulting contamos con un equipo humano y profesional excepcional, enfocados en dar soluciones de calidad, compromiso y productividad.
+
+Misión
+Aportar soluciones de calidad, acordes a las necesidades de nuestro cliente, para que logre una gestión de sus negocios de manera eficiente.
+
+Visión
+Convertirnos en un referente estratégico para nuestros clientes, por nuestra calidad en el servicio, asesoramiento y profesionalidad.
+
+Valores
+Nuestros valores fundamentales son el compromiso con el cliente, búsqueda constante de mejora y responsabilidad.
+
+4) Servicios
+
+Nuestros servicios de consultoría de CRM incluyen:
+
+Asesoramiento para la selección de la plataforma CRM.
+Asesoramiento para desarrollo de un CRM personalizado.
+Relevamiento e implementación sobre el CRM seleccionado.
+Optimizar y ampliar soluciones sobre CRM existente.
+Soporte post implementación.
+
+5) Propuesta comercial
+
+Testo asociado: En AXA Consulting contamos con dos alternativas para contratar nuestros servicios, uno asociado a valor/hora por consultor/equipo de consultores, con dedicación exclusiva y otra alternativa en forma de abono de un plan con horas fijas mensuales. La propuesta comercial valor/hora orientada para las etapas iniciales de asesoría, relevamiento, implementación y despliegue de CRM y los planes están orientados a dar soporte y asistencia en las fases de post implementación de CRM.
+
+Nuestras propuestas comerciales:
+
+Valor hora
+
+Valor/Hora consultor.
+Valor /Hora equipo interdisciplinario de consultores.
+Plan de horas fijas
+
+Plan Básico AXA: 40 horas de consultoría mensual.
+Plan Medio AXA: 100 horas de consultoría mensual.
+Plan Superior AXA: 200 horas de consultoría mensual.
+
+6) Contacto
+
+Texto asociado: Contáctenos, simplemente ingrese sus datos y nuestro equipo se pondrá en contacto con usted.
+
+Formulario de Contacto: Nombre, Mail, Mensaje y botón enviar
+Referencia para hacer Formulario:Como CREAR FORMULARIO de CONTACTO : https://www.youtube.com/watch?v=FGJNC4bSztM
