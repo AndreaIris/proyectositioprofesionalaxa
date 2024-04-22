@@ -1,0 +1,205 @@
+html{height: 100%;}
+*{  margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(230, 244, 247);
+    position: relative;
+     min-height: 100vh;
+
+
+}
+header{
+    width: 100%;
+    margin: 0px;
+    position: relative;
+    height: auto;
+    background-color: rgb(31, 121, 139);
+
+} 
+main{
+    position: relative;
+
+}
+footer{
+background-color: rgb(77, 101, 235);
+ position: absolute;
+ bottom: 0;
+ width: 100%;
+height:3 em;
+margin:auto;
+}
+
+*{
+    color: black ;
+}
+  
+.TituloPrincipal{
+    text-align: center;
+}
+
+.TituloPagina{
+    text-align: center;
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+.Centrado{
+    text-align: center;
+}
+.TextoParrafol{
+        text-align: justify;
+  }
+header{
+    padding-top: 10px;
+    width: 100%;
+    height: 179px;
+    top: 1px;
+    background-color: rgb(122, 163, 196);
+}
+.logo-jpg{
+    width: 100px;
+    height: 100px;
+    left: 407px;
+    top: 343px;
+    border: radius 30px 30px 30px 30px;
+}
+
+.imagen1-jpg{
+    width: 400px;
+    height: 300px;
+    left: 407px;
+    top: 343px;
+    border: radius 30px 30px 30px 30px;
+}
+
+.contenedorflex{
+    display: flex;
+    justify-content:space-around;
+    
+} 
+.textoflex{
+    margin: 2em;
+}
+.imgpresentacion{
+    width: 50%;
+     border-radius: 20px; 
+      box-shadow: 10px 10px 5px rgb(90, 91, 91);
+ }
+ 
+img {
+    max-width: 100%;
+  }
+  
+  .media {
+    display: flex;
+    align-items: flex-start;
+  }
+  
+  .media .content {
+    flex: 1;
+    padding: 10px;
+  }
+  
+
+nav ul li{
+    width: 150px;
+    height: 42px;
+    text-align: center;
+    border: radius 30px 30px 30px 30px;
+    background-color: rgb(3, 32, 56);
+    margin: 010px;
+}
+
+nav ul li {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+  }
+
+#texto{
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  
+      
+      input {                        /*no muestra el botón de menu */
+        display: none;     
+      }
+      label {                       /*no muestra la etiqueta ☰ */
+          display:none;
+      }
+      ul{                           /*muestra los botones con la disposición horizontal para notebook */
+        display: flex;
+        justify-content:space-around;
+        margin-top:0;
+        padding: 0;
+       
+      
+      }
+      .textoflex{
+        margin: 2em;
+    }
+    @media all and (max-width: 700px) {  /*cuando el dispositivo es como máximo de 700px*/
+      
+        input:checked  ~ ul{   /*muestra todas el contenido de todas las etiquetas ul */
+        display:block;
+          }
+      
+          input:checked ~ label {   /*muestra todo el contenido de todas las etiquetas label */
+          background: lightgrey; 
+              }
+      
+          label:hover{                /*cambia el color de ☰ */
+          background: grey;
+          }
+      
+        li{                         /*elimina el margen  de cada botón */
+             margin: 0px;
+             text-align: left;
+         }
+      
+         label {                      /* dibuja la etiqueta ☰  con formato botón */
+           box-sizing: border-box;
+           display: block;
+           border: 1px solid black;
+           border-radius: 5px;
+           width: 30px;
+           height: 30px;
+           line-height: 30px;
+           font-weight: bold;
+           text-align: center;
+           user-select: none;
+           background-color: cadetblue;
+      
+            }
+          
+      
+        ul{                          /*deja de mostrar el bloque contenedor de los botones horizontales */
+           display: none;
+           background-color:white;
+      
+          }
+         .contenedorflex{
+            flex-direction: column;
+            justify-content: center;
+         }  
+      }
+      ul li a{
+        text-decoration: none;
+        color: black;
+      }
+      ul li a:hover{
+        color: rgb(3, 9, 95);
+      }
